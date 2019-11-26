@@ -9,7 +9,7 @@ The project and architecture is designed and built by Mathijs van der Sangen and
 
 ### Installation instructions
 
-_These instructions are for demo purposes, setting up the minimum required services. In real life, such would be done by rolling out an ARM template containing said resources._
+_These instructions are for demo purposes, setting up the minimum required services. In real life, such would be done by rolling out an ARM template containing said resources, and deploying from Azure DevOps (e.g.) - not directly from Visual Studio._
 
 **Audit Trail Azure services deploy** (for demo):
 
